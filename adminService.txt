@@ -1,2 +1,4 @@
 add and remove ursers
 change the roles
+
+login and log out
